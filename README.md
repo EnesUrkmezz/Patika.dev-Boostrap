@@ -1,2 +1,2 @@
 # Patika.dev-Boostrap
-Bootstrap Özelliklerini Kullanarak Siteyi Geliştirme
+Bootstrap Özelliklerini Kullanarak Site Geliştirme
